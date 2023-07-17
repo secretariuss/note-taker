@@ -18,9 +18,9 @@ https://
 
 The following scrshots shows the web application's:
 
-![scrshot1](./assets/images/scr1.png)
-![scrshot2](./assets/images/scr2.png)
-![scrshot3](./assets/images/scr3.png)
+![scrshot1](./Develop/assets/images/scr1.png)
+![scrshot2](./Develop/assets/images/scr2.png)
+![scrshot3](./Develop/assets/images/scr3.png)
 
 ## Acceptance Criteria
 GIVEN a note-taking application

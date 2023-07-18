@@ -11,9 +11,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 ## Github reference
 https://github.com/secretariuss/note-taker
 
-## Video reference
-https://
-
 ## Screen shots
 
 The following scrshots shows the web application's:

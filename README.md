@@ -12,7 +12,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 https://github.com/secretariuss/note-taker
 
 ## Heroku deploy reference
-https://rocky-anchorage-53241-2d25524652bb.herokuapp.com/
+https://shielded-brook-26147-acf29867b9f4.herokuapp.com/
 
 ## Screen shots
 
